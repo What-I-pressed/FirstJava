@@ -1,0 +1,7 @@
+{
+    "host": "ep-still-morning-a2sdufws.eu-central-1.aws.neon.tech",
+    "url": "jdbc:postgresql://ep-still-morning-a2sdufws.eu-central-1.aws.neon.tech:5432/neondb",
+    "user": "neondb_owner",
+    "password": "oh5pxmtGZN0J"
+  }
+  
